@@ -71,7 +71,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## httprint :
 
-![Screenshot 2024-09-16 120358](https://github.com/user-attachments/assets/6f354de7-2917-4add-a594-b3620d01a177)
+![Screenshot 2024-09-16 120421](https://github.com/user-attachments/assets/0bae6c46-7f4d-4deb-8be1-4d8130d17b88)
+
 
 
 ## ICMP traceroute :
